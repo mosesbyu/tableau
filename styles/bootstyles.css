@@ -1,0 +1,31 @@
+.header{
+    height:100px;
+    background-color: lightgray;
+    line-height: 100px;
+}
+
+.footer{
+    height: 50px;
+    background-color: rgb(177, 175, 175);
+    color: rgb(0, 0, 0);
+    line-height: 50px;
+}
+
+.common{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.footer{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2{
+    background-color: rgb(46, 46, 46);
+    color: white;
+    text-align: center;
+}
